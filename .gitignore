@@ -8,5 +8,9 @@
 !WebContent/
 !WebContent/**
 
+
 !.gitignore
 !*.md
+
+!build/
+!build/**
